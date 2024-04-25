@@ -1,5 +1,5 @@
 // Insert the backend URL given by Vercel in this variable
-const BACKEND_URL = 'https://weatherapp4-backend-chi.vercel.app';
+const BACKEND_URL = 'https://weatherapp4-backend-jade.vercel.app';
 
 // Insert the frontend URL given by Vercel in this variable
 const FRONTEND_URL = 'https://weatherapp4-frontend-pfgy.vercel.app';
